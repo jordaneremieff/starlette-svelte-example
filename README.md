@@ -1,6 +1,6 @@
-# starlette-svelete-example
+# starlette-svlete-example
 
-A simple example of using [Svelete](https://svelte.dev/) with [Starlette](https://www.starlette.io/) and [Databases](https://www.encode.io/databases/).
+A simple example of using [Svelte](https://svelte.dev/) with [Starlette](https://www.starlette.io/) and [Databases](https://www.encode.io/databases/).
 
 ## Setup 
 
