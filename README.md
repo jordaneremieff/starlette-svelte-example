@@ -13,8 +13,6 @@ pip install -r requirements.txt
 python init_db.py
 ```
 
-### Frontend
-
 From the `frontend/` directory, install the dependencies:
 
 ```shell
