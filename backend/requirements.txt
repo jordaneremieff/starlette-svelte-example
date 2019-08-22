@@ -1,0 +1,4 @@
+starlette
+python-multipart
+uvicorn
+databases[sqlite]
